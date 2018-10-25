@@ -1,0 +1,12 @@
+conda install pandas
+conda install scikit-learn
+pip install --upgrade tensorflow
+pip install keras
+pip install textblob
+conda install -c esri arcgis
+pip install requests
+conda install jupyter
+pip install py2neo
+pip install osmnx
+
+conda create --name Keras python=3.6
